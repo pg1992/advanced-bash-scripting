@@ -1,2 +1,5 @@
-# advanced-bash-scripting
-Solutions to the Advanced Bash-Scripting Guide proposed problems
+# Advanced Bash-Scripting Guide
+
+## Description
+
+Solutions to the Advanced Bash-Scripting Guide proposed problems.
